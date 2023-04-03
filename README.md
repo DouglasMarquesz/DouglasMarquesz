@@ -2,9 +2,9 @@
 #### Tenho como hobby aprender novas linguagens e desenvolver aplicações para solucionar problemas do cotidiano. 💻⚙️
 
 ### Vida acadêmica
-- Técnico de Informática - Etec João Baptista de Lima Figueiredo 📚🎓
-- Informática Para Internet - Etec 📚🎓
-- Manutenção e Suporte de Informática - Etec 📚🎓
+- Técnico em Informática - Etec João Baptista de Lima Figueiredo 📚🎓
+- Informática Para Internet - Etec João Baptista de Lima Figueiredo 📚🎓
+- Manutenção e Suporte de Informática - Etec João Baptista de Lima Figueiredo 📚🎓
 - Cursando Analise e Desenvolvimento de Sistemas - UNIP 📖
 
 
