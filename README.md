@@ -5,7 +5,7 @@
 - Técnico em Informática - Etec João Baptista de Lima Figueiredo 📚🎓
 - Informática Para Internet - Etec João Baptista de Lima Figueiredo 📚🎓
 - Manutenção e Suporte de Informática - Etec João Baptista de Lima Figueiredo 📚🎓
-- Cursando Analise e Desenvolvimento de Sistemas - UNIP 📖
+- Analise e Desenvolvimento de Sistemas - UNIP 📚🎓
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmarquesz&show_icons=true&theme=dark)
